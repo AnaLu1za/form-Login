@@ -1,6 +1,5 @@
-# Formulário de Cadastro
-
-[Bootstrap 5](https://getbootstrap.com/)
+# Formulário de Login 
+A página de login é simples e fácil de usar. Os campos de texto são claros e legíveis, e o botão de login é facilmente identificável para permetir o fácil acesso. O [Bootstrap 5](https://getbootstrap.com/) foi utilizado, pois o site deve ser responsivo.
 
 # Índice 
 * [Descrição](#descrição)
@@ -17,10 +16,9 @@
 Passo a passo para se cadastrar:
 
 - Acesse o link no "About"
-- Preencha os campos do cadastro simples.
-- (Opcional) Preencha os campos do cadastro pessoal.
-- (Opcional) Cadastre um endereço.
-- Clique no botão "Salvar".
+- Preencha os campos nomeados como "E-mail" e "Senha"
+-(Opicional) Clique na opção "Lembre de mim"
+- Clique no botão "Cadastrar".
 
 Dicas para criar uma senha forte:
 - Sua senha deve ter pelo menos 8 caracteres.
