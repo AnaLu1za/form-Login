@@ -1,5 +1,5 @@
 # Formulário de Login 
-A página de login é simples e fácil de usar. Os campos de texto são claros e legíveis, e o botão de login é facilmente identificável para permetir o fácil acesso. O [Bootstrap 5](https://getbootstrap.com/) foi utilizado, pois o site deve ser responsivo.
+A página de login é simples e fácil de usar. Os campos de texto são claros e legíveis, e o botão de login é facilmente identificável para possibilitar o fácil entendimento. O [Bootstrap 5](https://getbootstrap.com/) foi utilizado, pois o site deve ser responsivo.
 
 # Índice 
 * [Descrição](#descrição)
@@ -28,7 +28,7 @@ Dicas para criar uma senha forte:
 ## Funcionalidades
 
 
-
+ 
 ## Técnicas e tecnologias utilizadas
 * [<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 * [<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="Bootstrap v5.0"/></code>](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
@@ -40,9 +40,6 @@ Dicas para criar uma senha forte:
 ## Fontes consultadas 
 * [Alura - Como escrever um bom README.md](https://www.alura.com.br/artigos/escrever-bom-readme)
 * [Bootstrap](https://getbootstrap.com/docs/5.3/forms/checks-radios/#radios)
-* [Alura - Tipos de type](https://cursos.alura.com.br/forum/topico-type-do-campo-telefone-104370)
-* [Dio](https://www.dio.me/articles/tutorial-criando-um-readme-bonitao-para-o-seu-github)
-* [Progamador alternativo - Youtube](https://youtu.be/HJ16WEmOWTw?si=UFvCAtBHbuCc08Hu)
 * [Fotos para o subtópico "Técnicas e tecnologias consultadas"](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 
