@@ -1,5 +1,5 @@
 # Formulário de Login 
-A página de login é simples e fácil de usar. Os campos de texto são claros e legíveis, e o botão de login é facilmente identificável para possibilitar o fácil entendimento. O [Bootstrap 5](https://getbootstrap.com/) foi utilizado, pois o site deve ser responsivo.
+A página de login é simples e fácil de usar. Os campos de texto são claros e legíveis, e o botão de login é facilmente identificável para possibilitar o fácil entendimento. O [Bootstrap 5](https://getbootstrap.com/) foi utilizado, pois o site deveria ser responsivo.
 
 # Índice 
 * [Descrição](#descrição)
@@ -12,11 +12,11 @@ A página de login é simples e fácil de usar. Os campos de texto são claros e
 ## Descrição
 O site de login é uma página simples e objetiva, com o objetivo de permitir que usuários registrados no site acessem áreas restritas. A página é composta por dois campos:
 
-- *Endereço de e-mail:* O usuário deve inserir seu endereço de e-mail registrado no site.
-- *Senha:* O usuário deve inserir sua senha registrada no site.
+- **Endereço de e-mail:** O usuário deve inserir seu endereço de e-mail registrado no site.
+- **Senha:** O usuário deve inserir sua senha registrada no site.
 Após inserir os dados, o usuário clica no botão Entrar. Se os dados forem válidos, o usuário é autenticado e pode acessar o conteúdo restrito.
 
-!  [Formulário de Login](img/login.PNG)
+![Formulário de Login](img/login.PNG)
 
 ## Introdução 
 Passo a passo para se cadastrar:
