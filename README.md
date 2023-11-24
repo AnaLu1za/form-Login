@@ -7,7 +7,6 @@ A página de login é simples e fácil de usar. Os campos de texto são claros e
 * [Funcionalidades](#funcionalidades)
 * [Técnicas e tecnologias utilizadas](#técnicas-e-tecnologias-utilizadas)
 * [Fontes Consultadas](#fontes-consultadas)
-* [Analise dos sites](#analise-dos-sites)
 
 ## Descrição
 O site de login é uma página simples e objetiva, com o objetivo de permitir que usuários registrados no site acessem áreas restritas. A página é composta por dois campos:
