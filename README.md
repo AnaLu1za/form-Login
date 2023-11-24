@@ -14,7 +14,8 @@ O site de login é uma página simples e objetiva, com o objetivo de permitir qu
 
 - **Endereço de e-mail:** O usuário deve inserir seu endereço de e-mail registrado no site.
 - **Senha:** O usuário deve inserir sua senha registrada no site.
-Após inserir os dados, o usuário clica no botão Entrar. Se os dados forem válidos, o usuário é autenticado e pode acessar o conteúdo restrito.
+
+- Após inserir os dados, o usuário clica no botão **Entrar**. Se os dados forem válidos, o usuário é autenticado e pode acessar o conteúdo restrito.
 
 ![Formulário de Login](img/login.PNG)
 
@@ -24,7 +25,7 @@ Passo a passo para se cadastrar:
 - Acesse o link no "About"
 - Preencha os campos nomeados como "E-mail" e "Senha"
 -(Opicional) Clique na opção "Lembre de mim"
-- Clique no botão "Cadastrar".
+- Clique no botão "Entrar".
 
 Dicas para criar uma senha forte:
 - Sua senha deve ter pelo menos 8 caracteres.
